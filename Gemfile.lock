@@ -21,6 +21,7 @@ PLATFORMS
 
 DEPENDENCIES
   rspec (~> 3.0)
+  rspec-mocks (~> 3.8)
 
 BUNDLED WITH
    1.16.2
